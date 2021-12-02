@@ -1,0 +1,51 @@
+/**************************/
+/*** INDIV. PAGE SECTION ADJUSTMENTS***/
+/**************************/
+
+/**************************/
+/*** SKILLS SECTION ADJUSTMENTS***/
+/**************************/
+
+.photo-round {
+  border-radius: 50%;
+}
+
+/**************************/
+/*** CONTACT SECTION ADJUSTMENTS***/
+/**************************/
+button {
+  display: block;
+  border: none;
+  text-decoration: none;
+  list-style: none;
+  cursor: pointer;
+}
+
+.small-port {
+  margin-bottom: 5rem;
+}
+
+.port-btn {
+  width: 10rem;
+  height: 5rem;
+  color: rgb(236, 235, 235);
+  border-radius: 10px;
+  background-color: rgb(12, 12, 12);
+  box-shadow: inset 2px 2px 3px rgba(248, 166, 166, 0.6),
+    inset -2px -2px 3px rgba(248, 166, 166, 0.6);
+  text-align: center;
+}
+.logo-icon {
+  width: 6rem;
+  height: 5rem;
+  color: rgb(236, 235, 235);
+  border-radius: 10px;
+  background-color: rgb(17, 52, 167);
+  box-shadow: inset 2px 2px 3px rgba(255, 255, 255, 0.6),
+    inset -2px -2px 3px rgba(0, 0, 0, 0.6);
+}
+.skill-section,
+.contact-section,
+.test-section {
+  margin-top: 10rem;
+}

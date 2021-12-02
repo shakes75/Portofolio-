@@ -1,0 +1,254 @@
+/**************************/
+/*** MAX 1420 PIX DEVICES ***/
+/**************************/
+
+@media (max-width: 90em) {
+  .body {
+    max-width: 142rem;
+  }
+  .btn-nav {
+    top: 10rem;
+    right: 2rem;
+  }
+  .photo-sides {
+    width: 22.5rem;
+    height: 12.5rem;
+  }
+  .photo-middle {
+    width: 45rem;
+    height: 25rem;
+  }
+}
+
+/**************************/
+/*** MAX 1000 PIX DEVICES ***/
+/**************************/
+
+@media (max-width: 66em) {
+  .body {
+    max-width: 100rem;
+  }
+  .container {
+    display: inline-block;
+    margin: 0 5rem;
+  }
+  .btn-nav {
+    top: 10rem;
+    right: 2rem;
+  }
+  .photo-sides {
+    width: 17.5rem;
+    height: 8.75rem;
+  }
+  .photo-middle {
+    width: 35rem;
+    height: 17.5rem;
+  }
+}
+
+/**************************/
+/*** MAX 900 PIX DEVICES ***/
+/**************************/
+@media (max-width: 56em) {
+  .body {
+    max-width: 90rem;
+  }
+  h1 {
+    font-size: 5.2rem;
+  }
+  h2 {
+    font-size: 3rem;
+  }
+  p {
+    font-size: 2rem;
+  }
+  .btn-nav {
+    top: 9rem;
+    right: 1rem;
+  }
+  .photo-sides {
+    width: 15rem;
+    height: 7.5rem;
+  }
+  .photo-middle {
+    width: 30rem;
+    height: 15rem;
+  }
+}
+
+/**************************/
+/*** MAX 770 PIX DEVICES ***/
+/**************************/
+
+@media (max-width: 48em) {
+  .body {
+    max-width: 77rem;
+  }
+  .btn-nav {
+    top: 9rem;
+    right: 1rem;
+  }
+}
+
+/**************************/
+/*** MAX 720 PIX DEVICES ***/
+/**************************/
+
+@media (max-width: 45em) {
+  .body {
+    max-width: 72rem;
+  }
+  h1 {
+    font-size: 4.4rem;
+  }
+  h2 {
+    font-size: 2.4rem;
+  }
+  p {
+    font-size: 1.8rem;
+  }
+  .btn-nav {
+    top: 9rem;
+    right: 1rem;
+  }
+  .photo-sides {
+    width: 12.5rem;
+    height: 6.25rem;
+  }
+  .photo-middle {
+    width: 17.5rem;
+    height: 8.75rem;
+  }
+}
+
+/**************************/
+/*** MAX 630 PIX DEVICES ***/
+/**************************/
+
+@media (max-width: 39em) {
+  .body {
+    max-width: 63rem;
+  }
+  h1 {
+    font-size: 3.6rem;
+  }
+  h2 {
+    font-size: 2rem;
+  }
+  p {
+    font-size: 1.6rem;
+  }
+  .btn-nav {
+    top: 8rem;
+    right: 1rem;
+  }
+  .copyright {
+    font-size: 1.2rem;
+  }
+}
+
+/**************************/
+/*** MAX 520 PIX DEVICES ***/
+/**************************/
+
+@media (max-width: 32.5em) {
+  .body {
+    max-width: 520rem;
+  }
+  h1 {
+    font-size: 3rem;
+  }
+  h2 {
+    font-size: 1.8rem;
+  }
+  p {
+    font-size: 1.4rem;
+  }
+  .nav-icon {
+    width: 3rem;
+    height: 3rem;
+  }
+  .btn-nav {
+    top: 7rem;
+    right: 1rem;
+  }
+  .photo-sides {
+    width: 7.5rem;
+    height: 3.75rem;
+  }
+  .photo-middle {
+    width: 12.5rem;
+    height: 6rem;
+  }
+  .copyright {
+    font-size: 1rem;
+  }
+}
+
+/**************************/
+/*** MAX 390 PIX DEVICES ***/
+/**************************/
+
+@media (max-width: 24em) {
+  .body {
+    max-width: 390rem;
+  }
+  h1 {
+    font-size: 2.4rem;
+  }
+  h2 {
+    font-size: 1.6rem;
+  }
+  p {
+    font-size: 1.2rem;
+  }
+  .nav-icon {
+    width: 2rem;
+    height: 2rem;
+  }
+  .btn-nav {
+    top: 7rem;
+    right: 1rem;
+  }
+  .copyright {
+    font-size: 0.8rem;
+  }
+}
+
+/**************************/
+/*** MAX 355 PIX DEVICES ***/
+/**************************/
+
+@media (max-width: 22em) {
+  .body {
+    max-width: 355rem;
+  }
+  h1 {
+    font-size: 2rem;
+  }
+  h2 {
+    font-size: 1.4rem;
+  }
+  p {
+    font-size: 1rem;
+  }
+  .nav-icon {
+    width: 1.5rem;
+    height: 1.5rem;
+  }
+  .btn-nav {
+    top: 7rem;
+    right: 0rem;
+  }
+  .photo-sides {
+    width: 5rem;
+    height: 2.5rem;
+  }
+  .photo-middle {
+    width: 10rem;
+    height: 5rem;
+  }
+  .copyright {
+    font-size: 0.75rem;
+  }
+}
